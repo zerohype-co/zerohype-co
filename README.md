@@ -1,39 +1,44 @@
 # ZeroHype Lab
 
-> No fluff. No hype. Just what works.
+> **No fluff. No hype. Just what works.**  
+> Forensic B2B marketing diagnostics, free roaster tools, and async 48-hour codebase & cloud de-bloating audits.
 
-Anonymous **B2B marketing diagnostics**. We find the specific failure point in your outreach, positioning, and campaigns — then fix that.
+---
 
-## Free tools
+## ⚡ Free Diagnostic Tools (Instant, No Signup)
 
-- **[Cold Email Roaster](https://zerohypelab.com/cold-email-roaster/)** — paste a cold email, get a Hype Score 0–100 across 6 analyzers.
-- **[Campaign Failure Predictor](https://zerohypelab.com/campaign-failure-predictor/)** — score your campaign's failure risk before you launch.
-- **[B2B Bullshit Detector](https://zerohypelab.com/bullshit-detector/)** — paste any B2B copy, get the top offenders with reasons.
-- **[B2B Homepage Roaster](https://zerohypelab.com/homepage-roaster/)** — clarity, CTA, jargon, conversion-readiness.
-- **[Tartarus](https://zerohypelab.com/tartarus/)** — codebase diagnostic: Context Readiness Score 0–100 for AI agents.
+- **[B2B Bullshit Detector](https://zerohypelab.com/bullshit-detector/):** Instant 0-100 copy diagnostic. Flags corporate buzzwords, hollow claims, and missing proof.
+- **[Cold Email Roaster](https://zerohypelab.com/cold-email-roaster/):** Forensic email roast. Spot the exact lines triggering spam filters and killing reply rates.
+- **[Campaign Failure Predictor](https://zerohypelab.com/campaign-failure-predictor/):** 10-question pre-launch risk quiz across ICP, CTA friction, and channel viability.
+- **[B2B Homepage Roaster](https://zerohypelab.com/homepage-roaster/):** Value proposition clarity and conversion friction analyzer.
 
-## Paid written audits — from $49
+---
 
-[Marketing Autopsy](https://zerohypelab.com/marketing-autopsy/) · [Outreach Autopsy](https://zerohypelab.com/outreach-autopsy/) · [Campaign Autopsy](https://zerohypelab.com/campaign-autopsy/) · [DACH Outreach Agent](https://zerohypelab.com/dach-outreach-agent/) · [DACH Prospect Intelligence](https://zerohypelab.com/dach-prospect-intelligence/)
+## 🛠️ Micro-SaaS Cloud & API De-Bloating ( - ,497)
 
-## Done-with-you — up to $4,500
+78% of Micro-SaaS applications bleed  to ,400 every month on un-cached LLM tokens, over-provisioned serverless tiers, and unindexed queries. We stop the silent drain:
 
-[Outreach Overhaul](https://zerohypelab.com/outreach-overhaul/) · [Revenue Architecture](https://zerohypelab.com/revenue-architecture/) · [Monthly Autopsy](https://zerohypelab.com/monthly-autopsy/)
+1. **[De-Bloating Toolkit ()](https://zerohypelab.com/de-bloating/):** Production-ready semantic caching templates (Redis & Cloudflare KV), Token Guard middleware, and PostgreSQL / SQLite Index Optimizer scripts.
+2. **[48-Hour Codebase Audit & Direct PR (,497)](https://zerohypelab.com/de-bloating/):** We audit your repository, isolate financial leaks, and open a direct Pull Request in 48 hours. **Guarantee: Minimum ,000/year in verified savings or 100% money back.**
 
-## The layout
+---
 
-Every product ships from **its own repository** (daughter repos), served on [zerohypelab.com](https://zerohypelab.com/):
+## 📄 Paid Diagnostic Audits (Async, No Calls)
 
-| Product | Repo | Live |
-|---|---|---|
-| Apex site / homepage | [zerohype-co.github.io](https://github.com/zerohype-co/zerohype-co.github.io) | [zerohypelab.com](https://zerohypelab.com/) |
-| Guides hub | [guides](https://github.com/zerohype-co/guides) | [zerohypelab.com/guides](https://zerohypelab.com/guides/) |
-| Cold Email Roaster | [cold-email-roaster](https://github.com/zerohype-co/cold-email-roaster) | [zerohypelab.com/cold-email-roaster](https://zerohypelab.com/cold-email-roaster/) |
-| Campaign Autopsy | [campaign-autopsy](https://github.com/zerohype-co/campaign-autopsy) | [zerohypelab.com/campaign-autopsy](https://zerohypelab.com/campaign-autopsy/) |
-| Marketing Autopsy | [marketing-autopsy](https://github.com/zerohype-co/marketing-autopsy) | [zerohypelab.com/marketing-autopsy](https://zerohypelab.com/marketing-autopsy/) |
-| Campaign Failure Predictor | [campaign-failure-predictor](https://github.com/zerohype-co/campaign-failure-predictor) | [zerohypelab.com/campaign-failure-predictor](https://zerohypelab.com/campaign-failure-predictor/) |
-| Other products | _each in its own repo_ | [zerohypelab.com](https://zerohypelab.com/) |
+- **[Marketing Autopsy ()](https://zerohypelab.com/marketing-autopsy/):** Human diagnostic of your B2B messaging architecture in 48 hours.
+- **[Outreach Autopsy ()](https://zerohypelab.com/outreach-autopsy/):** Forensic review of your cold email or LinkedIn sequence.
+- **[Outreach Overhaul ()](https://zerohypelab.com/outreach-overhaul/):** Full diagnosis and custom sequence rebuild.
 
-## Contact
+---
 
-[zerohype@proton.me](mailto:zerohype@proton.me) — **anonymous by design**. The work speaks.
+## 📚 Open Playbooks & Guides
+
+- **[141+ Free B2B Outreach & DACH Guides](https://zerohypelab.com/guides/):** Cold email scripts, software buying behavior, and sales frameworks.
+
+---
+
+## 🔒 Philosophy & Contact
+
+- **Zero Calls Policy:** No discovery calls, no demo meetings, no slide decks. Async delivery only.
+- **Privacy First:** No cookies, no third-party tracking, no hype.
+- **Contact:** zerohype@proton.me | [zerohypelab.com](https://zerohypelab.com)
